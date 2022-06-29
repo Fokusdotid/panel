@@ -1,0 +1,28 @@
+{
+  "name": "panel",
+  "version": "1.0.0",
+  "description": "for pterodactyl",
+  "main": "bash.js",
+  "scripts": {
+	"start": "node bash.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fokusdotid/panel.git"
+  },
+  "keywords": [
+    "panel"
+  ],
+  "author": "Fokus ID",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fokusdotid/panel/issues"
+  },
+  "homepage": "https://github.com/fokusdotid/panel#readme",
+  "dependencies": {
+    "chalk": "4.1.2",
+    "child_process": "^1.0.2",
+    "util": "^0.12.4"
+  }
+}
