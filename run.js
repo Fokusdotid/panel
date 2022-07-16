@@ -13,6 +13,8 @@ function start(cmd) {
 
 start('clear')
 
-start('screenfetch')
+// start('screenfetch')
 
 start('bash')
+
+start('echo Terminal ready to use!')
